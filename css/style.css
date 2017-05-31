@@ -1,0 +1,106 @@
+body{
+  background-image: url(http://www.meshpros.com/images/bg/hmk1.jpg);
+}
+header{
+
+  width:900px;
+  height:180px;
+  margin-left:23%;
+}
+h1{
+  font-family: 'Libre Baskerville', serif;
+  font-size:5em;
+  text-align:center;
+  margin-top:10px;
+  color: white;
+}
+#divlinks{
+  height: 825px;
+  width: 700px;
+
+  margin-left:23%;
+  margin-top:0.5%;
+  font-family: 'Sanchez', serif;
+  font-size:1em;
+  text-align:center;
+  color: white;
+}#diveen, #divvier, #divdrie, #divtwee{
+  height: 200px;
+  width: 180px;
+
+  margin-left:65%;
+  margin-top:5px;
+  font-family: 'Sanchez', serif;
+  font-size:1em;
+  text-align:center;
+  color: white;
+}
+.klein{
+  margin-top:-835px;
+}
+h2{
+  color: white;
+  margin-top:10px;
+  font-size:1.2em;
+  text-decoration:none;
+}
+h4{
+  color: white;
+  margin-top:-60px;
+  margin-left:64%;
+}
+h3{
+  color: white;
+  font-size:1em;
+  margin-top:40px;
+}
+a{
+  margin-left:21%;
+  position:relative;
+  color:teal;
+  font-size:1em;
+  margin-top:-15px;
+}
+a:hover{
+  color: aqua;
+  text-decoration: none;
+}
+.naar{
+  color:gray;
+  font-size:0.8em;
+  float:left;
+}
+.datum{
+
+  font-size:0.6em;
+  color:white grey;
+  margin-top:-10px;
+}
+.nieuw{
+  float:left;
+  margin-top:230px;
+  margin-left:-200px;
+}
+.oude{
+  float:left;
+  margin-top:230px;
+  margin-left:-70px;
+}
+footer{
+  color: white;
+  width:900px;
+  height:60px;
+  margin-left:23%;
+  margin-top: 5px;
+}
+.diveena{
+  font-size: 0.6em;
+  margin: 30px 25px 0px 10px;
+  line-height: 25px;
+  text-decoration: none;
+}
+.diva{
+  font-size: 0.6em;
+  text-decoration: none;
+  margin-left: 1px;
+}

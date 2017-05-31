@@ -1,0 +1,95 @@
+body{
+  background-image: url(http://www.meshpros.com/images/bg/hmk1.jpg);
+}
+header{
+color: white;
+  width:900px;
+  height:180px;
+  margin-left:23%;
+}
+h1{
+  font-family: 'Libre Baskerville', serif;
+  font-size:5em;
+  text-align:center;
+  margin-top:10px;
+  color: white;
+}
+#divlinks{
+  height: 825px;
+  width: 700px;
+  color: white;
+  margin-left:23%;
+  margin-top:0.5%;
+  font-family: 'Sanchez', serif;
+  font-size:1em;
+  text-align:center;
+}#diveen, #divvier, #divdrie, #divtwee{
+  height: 200px;
+  width: 180px;
+  color: white;
+  margin-left:65%;
+  margin-top:5px;
+  font-family: 'Sanchez', serif;
+  font-size:1em;
+  text-align:center;
+}
+.klein{
+  margin-top:-835px;
+}
+h4{
+  margin-top:-60px;
+  margin-left:64%;
+  color: white;
+}
+h3{
+  color: white;
+  font-size:1em;
+  margin-top:40px;
+}
+a{
+  margin-left:21%;
+  position:relative;
+  color:teal;
+  font-size:1em;
+  margin-top:-15px;
+}
+a:hover{
+  color:aqua;
+  text-decoration: none;
+}
+.datum{
+  font-size:0.6em;
+  color:white;
+}
+.nieuw{
+  float:left;
+  margin-top:20px;
+  margin-left:20px;
+}
+.oude{
+  float:left;
+  margin-top:20px;
+  margin-left:20px;
+}
+footer{
+  color: white;
+  width:900px;
+  height:60px;
+  margin-left:23%;
+  margin-top: 5px;
+}
+img{
+  width:160px;
+  height:200px;
+}
+.diveena{
+  font-size: 0.6em;
+  margin: 30px 25px 0px 10px;
+  line-height: 25px;
+  text-decoration: none;
+}
+.diva{
+  font-size: 0.6em;
+  text-decoration: none;
+  margin-left: 1px;
+}
